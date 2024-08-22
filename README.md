@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java" />
+  </a>
+</p>
+
 # Projet Java - Exemple de Structure de Base
 
 Ce projet contient un exemple simple d'une classe Java, démontrant plusieurs concepts de base comme les conditions, les boucles et le calcul de moyenne. 
