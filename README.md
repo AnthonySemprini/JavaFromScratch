@@ -4,11 +4,11 @@
   </a>
 </p>
 
-# Projet Java - Exemple de Structure de Base
+# ☕️ Projet Java - Exemple de Structure de Base
 
 Ce projet contient un exemple simple d'une classe Java, démontrant plusieurs concepts de base comme les conditions, les boucles et le calcul de moyenne. 
 
-## Contenu du Projet
+## :dart: Contenu du Projet
 
 Le projet comprend une classe principale `Main` qui exécute les fonctionnalités suivantes :
 
@@ -17,7 +17,7 @@ Le projet comprend une classe principale `Main` qui exécute les fonctionnalité
 - **Conditions** : Utilisation de `if`, `else if`, et `else` pour évaluer des conditions et prendre des décisions.
 - **Switch-case** : Exemple de structure de contrôle `switch` pour comparer une variable à plusieurs valeurs possibles.
 
-## Fonctionnalités Principales
+## :memo: Fonctionnalités Principales
 
 ### 1. Affichage des informations de base
 Le programme commence par afficher l'âge et le pseudonyme de l'utilisateur.
@@ -34,7 +34,7 @@ Le programme vérifie si l'utilisateur est majeur, mineur, ou mineur et a moins 
 ### 5. Switch-case sur une valeur
 Le programme utilise une structure `switch` pour évaluer la valeur d'une variable `euro` et afficher le résultat approprié.
 
-## Comment exécuter le projet
+## 🚀 Comment exécuter le projet
 
 Pour exécuter ce projet, assurez-vous d'avoir une configuration Java fonctionnelle. Compilez la classe `Main` et exécutez-la à partir de votre environnement de développement intégré (IDE) préféré ou via la ligne de commande.
 
